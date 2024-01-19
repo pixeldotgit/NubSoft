@@ -1,1 +1,1 @@
-githubTestPull1.0.1
+beta1.0.0
