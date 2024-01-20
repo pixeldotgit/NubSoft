@@ -1,1 +1,18 @@
-beta1.0.0
+New version md3Changes1.1 available.
+
+Whats new?
+
+ScrollView added.
+Code improvements.
+Better NewVersionAvailable system.
+Official Aptoide release.
+More MD3 guidelines followed.
+Improved ListView.
+Bug fixes.
+...and more!
+
+Developer build: dev-build-2.apk
+Regular build: md3changes1.1.apk
+
+Have Sketchware Pro experience and want to become NubSoft app maker?
+Contact bringbackfoureffar on Discord.
